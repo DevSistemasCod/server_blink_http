@@ -1,0 +1,18 @@
+html {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 14px 35px;
+  font-size: 32px;
+  cursor: pointer;
+  margin: 3px;
+}
+.on {
+  background-color: yellowgreen;
+}
+.off {
+  background-color: gray;
+}
